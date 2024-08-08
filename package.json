@@ -1,0 +1,16 @@
+{
+  "name": "assessment2",
+  "version": "1.0.0",
+  "description": "movie review",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "author": "tharindu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  }
+}
